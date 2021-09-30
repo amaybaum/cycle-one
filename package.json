@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/amaybaum/cycle-one#readme",
   "dependencies": {
-    "socket.io": "2.4.1"
+    "socket.io": "2.4.1",
+    "@amaybaum/cycle-two": "1.0.0"
   }
 }
